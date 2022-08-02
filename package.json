@@ -41,9 +41,6 @@
   "engines": {
     "node": ">=4.0.0"
   },
-  "os": [
-    "win32"
-  ],
   "devDependencies": {
     "temp": "^0.8.3"
   }
